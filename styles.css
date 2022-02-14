@@ -1,0 +1,33 @@
+body {
+    background-color: yellow;
+  }
+  .content {
+    max-width: 1000px;
+    margin: auto;
+  }  
+
+  h1 {
+    color: rgb(153, 36, 153);
+    text-decoration: underline;
+    text-align: center;
+    font-family: cursive;
+  }
+
+  h2, h3, p {
+    color: rgb(48, 65, 194);
+  }
+
+  p, li {
+    font-size: 24px;
+    font-family: cursive;
+  }
+  
+
+  
+  
+  img {
+    border: 8px solid rgb(196, 8, 243);
+  }
+</style>
+</head>End of code snippet
+Once we save the HTML
